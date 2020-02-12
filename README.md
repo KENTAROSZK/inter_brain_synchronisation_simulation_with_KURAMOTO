@@ -1,0 +1,2 @@
+# inter_brain_synchronisation_simulation_with_KURAMOTO
+for simulation to reproduce inter brain synchronisation by KURAMOTO oscillators networks
